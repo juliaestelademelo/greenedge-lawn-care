@@ -16,6 +16,11 @@
 
 }
 
+html{
+        scroll-behavior: smooth;
+
+}
+
 body{
 background-color: var(--back);
 font-family: var(--main-font);
